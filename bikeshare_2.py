@@ -198,7 +198,7 @@ def user_stats(df):
     # TO DO: Display earliest, most recent, and most common year of birth
     print()
     if 'Birth Year' not in df:
-        print('There is no birht data available.')
+        print('There is no birht data available. You can try it again with other filters activated.')
     else:
         birth = df.groupby('Birth Year', as_index=False).count()
         print('The earliest year of birth was {}.'.format(int(birth['Birth Year'].min())))
