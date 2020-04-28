@@ -7,7 +7,8 @@ CITY_DATA = {'chicago': 'chicago.csv', 'new york city': 'new_york_city.csv', 'wa
 MONTH_DATA = {'January': 1, 'February': 2, 'March': 3, 'April': 4, 'May': 5, 'June': 6}
 DAY_DATA = {'Monday': 0, 'Tuesday': 1, 'Wednesday': 2, 'Thursday': 3, 'Friday': 4, 'Saturday': 5, 'Sunday': 6}
 
-
+	# BikeShare Project by Yannick Keinath @ April 2020
+	
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
