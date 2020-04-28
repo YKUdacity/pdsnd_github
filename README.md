@@ -2,7 +2,7 @@
 23.04.2020
 
 ### Project Title
-BikeShare Project
+BikeShare Project of Yannick Keinath (@BMW)
 
 ### Description
 The project is about a rows of question for filters you want to apply to get information about the BikeShare.
